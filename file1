@@ -1,0 +1,16 @@
+Azure Account
+Github
+hub.docker.com
+
+
+Create a blank repository on your local machine
+
+init the repository
+
+create a blank file by your name and add some content in to the file then commit
+
+repeat above to create another 2 file add some content and commit it
+
+check the log details to get the commit id
+
+use diff option to verify the change getting happend in your repository
