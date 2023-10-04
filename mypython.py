@@ -1,5 +1,5 @@
 import turtle
-import time
+import tim
 import random
 
 delay = 0.1
